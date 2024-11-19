@@ -1,0 +1,11 @@
+{
+    "name": "KGWEB-20240927",
+    "short_name": "KG",
+    "theme_color": "#222831",
+    "background_color": "#ffad17",
+    "display": "standalone",
+    "Scope": "/KG-PWA-20240927/",
+    "start_url": "/KG-PWA-20240927/index.html",
+    "icons": [
+    ]
+}
